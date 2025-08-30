@@ -1,0 +1,537 @@
+{
+	"root": {
+		"id": "qjditupz",
+		"text": "CI Curriculum Brainstorm",
+		"notes": "",
+		"layout": "map",
+		"children": [
+			{
+				"id": "kjiispmq",
+				"text": "Motivation to Join",
+				"notes": "",
+				"side": "left",
+				"children": [
+					{
+						"id": "qaphphcx",
+						"text": "Structure",
+						"notes": "",
+						"children": [
+							{
+								"id": "cnoppxhu",
+								"text": "Formalize",
+								"notes": ""
+							},
+							{
+								"id": "awmoqqxk",
+								"text": "Systemize",
+								"notes": "",
+								"children": [
+									{
+										"id": "jfhtpfcj",
+										"text": "Non-linear",
+										"notes": ""
+									},
+									{
+										"id": "uaamenjg",
+										"text": "Optional modules",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "ssrodzrj",
+								"text": "Improve skill/movement",
+								"notes": ""
+							},
+							{
+								"id": "pphjwuso",
+								"text": "Efficiency",
+								"notes": ""
+							},
+							{
+								"id": "umtjgjrq",
+								"text": "Levels improves safety",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "wunwwvjv",
+						"text": "A natural evolutionary step",
+						"notes": ""
+					},
+					{
+						"id": "mjeuikue",
+						"text": "University = Research",
+						"notes": "",
+						"children": [
+							{
+								"id": "cqovjgsi",
+								"text": "Hierarchy",
+								"notes": ""
+							},
+							{
+								"id": "nbqxewkd",
+								"text": "Scientific approach",
+								"notes": "",
+								"children": [
+									{
+										"id": "jpdgyfff",
+										"text": "Build upon previous achievements",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "ufszwzzq",
+						"text": "Organize",
+						"notes": "",
+						"children": [
+							{
+								"id": "vfxxfmki",
+								"text": "Structure what's already there",
+								"notes": ""
+							},
+							{
+								"id": "jceyucix",
+								"text": "Resources",
+								"notes": "",
+								"children": [
+									{
+										"id": "ehxxvbqs",
+										"text": "Wikipedia?",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "emefnuth",
+						"text": "What's a good dancer",
+						"notes": ""
+					},
+					{
+						"id": "xuekmeue",
+						"text": "\"Open in closed\"",
+						"notes": "",
+						"children": [
+							{
+								"id": "mwbgyydo",
+								"text": "Blaance",
+								"notes": ""
+							},
+							{
+								"id": "cnobwvzu",
+								"text": "Research in curriculum",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "ongvfsea",
+						"text": "Consider initial intention",
+						"notes": "",
+						"children": [
+							{
+								"id": "uqpstuza",
+								"text": "No certificates, etc.",
+								"notes": ""
+							},
+							{
+								"id": "wpzluaqw",
+								"text": "Loyalty to/break with tradition?",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "vxgnxwie",
+						"text": "Identify core",
+						"notes": "",
+						"children": [
+							{
+								"id": "mrdxntpj",
+								"text": "Basic principles",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "ietahinb",
+						"text": "Teaching elements",
+						"notes": ""
+					}
+				]
+			},
+			{
+				"id": "rnlkbmfq",
+				"text": "Subjects",
+				"notes": "",
+				"side": "left",
+				"children": [
+					{
+						"id": "sdrqbzpo",
+						"text": "Functional Movement",
+						"notes": ""
+					},
+					{
+						"id": "gaeurimx",
+						"text": "Anatomy",
+						"notes": "",
+						"children": [
+							{
+								"id": "bbqeddgt",
+								"text": "Basic Medicine",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "msmdbtng",
+						"text": "Philosophy",
+						"notes": "",
+						"children": [
+							{
+								"id": "mbwsiksk",
+								"text": "Metaphysics",
+								"notes": ""
+							},
+							{
+								"id": "oskbmysm",
+								"text": "Ethics",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "flwlufzm",
+						"text": "Evaluation",
+						"notes": ""
+					},
+					{
+						"id": "fpusasuq",
+						"text": "History",
+						"notes": ""
+					},
+					{
+						"id": "vgxgaoly",
+						"text": "Collective Leadership",
+						"notes": "",
+						"children": [
+							{
+								"id": "odmaaalh",
+								"text": "Management",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "xcfccqni",
+						"text": "Acrobatics",
+						"notes": ""
+					},
+					{
+						"id": "luqiyykf",
+						"text": "Bodywork",
+						"notes": ""
+					},
+					{
+						"id": "iqzxgmyg",
+						"text": "Emotion",
+						"notes": ""
+					},
+					{
+						"id": "sggyvyka",
+						"text": "Body awareness",
+						"notes": ""
+					},
+					{
+						"id": "cdosjdaf",
+						"text": "Somatics",
+						"notes": ""
+					},
+					{
+						"id": "icemvfep",
+						"text": "Therapy",
+						"notes": ""
+					},
+					{
+						"id": "erqfnqsp",
+						"text": "Psychology",
+						"notes": ""
+					},
+					{
+						"id": "pzrxhnta",
+						"text": "Safety",
+						"notes": ""
+					},
+					{
+						"id": "pskspuez",
+						"text": "Physics",
+						"notes": "",
+						"children": [
+							{
+								"id": "zjzdvllr",
+								"text": "Mechanics",
+								"notes": ""
+							},
+							{
+								"id": "qjvxiuwy",
+								"text": "Math",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "wajfukrr",
+						"text": "Individual optional subjects",
+						"notes": "",
+						"children": [
+							{
+								"id": "dqoaijsh",
+								"text": "Self-evaluation",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "ozrajrdu",
+						"text": "Strength",
+						"notes": "",
+						"children": [
+							{
+								"id": "solurfff",
+								"text": "Pilates",
+								"notes": ""
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "ornrtqff",
+				"text": "Good Contacter",
+				"notes": "",
+				"side": "right",
+				"children": [
+					{
+						"id": "pdhyytgo",
+						"text": "Open mind-body",
+						"notes": ""
+					},
+					{
+						"id": "cbhfqdvm",
+						"text": "Awareness",
+						"notes": "",
+						"children": [
+							{
+								"id": "pvffoimh",
+								"text": "Considerate",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "vyxqzxyb",
+						"text": "Supportive",
+						"notes": ""
+					},
+					{
+						"id": "pxmxvpcr",
+						"text": "Listening",
+						"notes": ""
+					},
+					{
+						"id": "lfititvn",
+						"text": "Self-care",
+						"notes": "",
+						"children": [
+							{
+								"id": "fotspqow",
+								"text": "Hygiene",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "xhbugbtd",
+						"text": "Commited to improvise",
+						"notes": ""
+					},
+					{
+						"id": "maxppzfr",
+						"text": "Acceptance",
+						"notes": ""
+					},
+					{
+						"id": "zpldbqyw",
+						"text": "\"Yes\"",
+						"notes": ""
+					},
+					{
+						"id": "njzntkqy",
+						"text": "Easy-going",
+						"notes": ""
+					},
+					{
+						"id": "oknvuujw",
+						"text": "Courage",
+						"notes": "",
+						"children": [
+							{
+								"id": "xjbeumfv",
+								"text": "Daring",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "ojsyyavf",
+						"text": "Non-judgmental",
+						"notes": ""
+					},
+					{
+						"id": "xjkkctcg",
+						"text": "Flow",
+						"notes": ""
+					},
+					{
+						"id": "lalmmqqe",
+						"text": "Center-movement",
+						"notes": ""
+					},
+					{
+						"id": "huufkkib",
+						"text": "Edgy",
+						"notes": ""
+					},
+					{
+						"id": "krkllwdz",
+						"text": "Collective care",
+						"notes": ""
+					},
+					{
+						"id": "wssalolh",
+						"text": "Knows/respects rules",
+						"notes": ""
+					},
+					{
+						"id": "kzxkscxs",
+						"text": "Emotion-free",
+						"notes": ""
+					}
+				]
+			},
+			{
+				"id": "hkhxfety",
+				"text": "University Uniqueness",
+				"notes": "",
+				"side": "right",
+				"children": [
+					{
+						"id": "ypdhuyom",
+						"text": "Supervision",
+						"notes": "",
+						"children": [
+							{
+								"id": "tulvbzrl",
+								"text": "Mentor",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "uhpppnbj",
+						"text": "Grades",
+						"notes": "",
+						"children": [
+							{
+								"id": "ouhsrqrx",
+								"text": "Multiple-choice tests",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "shbmjuoq",
+						"text": "Internships",
+						"notes": "",
+						"children": [
+							{
+								"id": "qbrekeel",
+								"text": "e.g. in prisons",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "phktkikl",
+						"text": "Conducting research",
+						"notes": "",
+						"children": [
+							{
+								"id": "xhvhsuav",
+								"text": "Scientific method",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "byldrscp",
+						"text": "Community work",
+						"notes": "",
+						"children": [
+							{
+								"id": "ybfkheel",
+								"text": "Volunteering",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "teocowti",
+						"text": "Performative arts appraoch",
+						"notes": ""
+					},
+					{
+						"id": "okypjcdx",
+						"text": "Commercial",
+						"notes": "",
+						"children": [
+							{
+								"id": "bfvsnjav",
+								"text": "Entrepreuneurship",
+								"notes": ""
+							},
+							{
+								"id": "gdnewbxh",
+								"text": "Start a business",
+								"notes": ""
+							},
+							{
+								"id": "tpnwqdro",
+								"text": "Marketing",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "zkallpvp",
+						"text": "Frontal lecture",
+						"notes": "",
+						"children": [
+							{
+								"id": "wlwnxmop",
+								"text": "Powerpoint",
+								"notes": ""
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
