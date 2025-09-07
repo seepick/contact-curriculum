@@ -2,7 +2,9 @@
 
 An attempt to create a formal curriculum for the art-sport movement research practice called [Contact Improvisation](https://en.wikipedia.org/wiki/Contact_improvisation), or short, CI.
 
-Its creation is collaborative (meetings, forum, pull requests), and its use is free of any charge or copyright claims (do with it whatever you want; free as in free beer), allowing educational institutes to use it as a starting point.
+Its creation is collaborative, and its use is free of any charge or copyright claims (do with it whatever you want; free as in free beer), allowing educational institutes to use it as a starting point.
+
+Participate in our discussion by joining the [forum](https://contactcurriculum.freeforums.net). 
 
 ## Origin
 
