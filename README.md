@@ -21,7 +21,7 @@ Doing so while being aware that initially it was not intended to be strictly def
 
 On the one hand, we have regular, occurring **online video calls** to discuss further content.
 
-On the other hand we use a good, old [forum](https://contactcurriculum.freeforums.net) to keep in touch with each other, discuss topics, and having it persisted for the future. To post content, you need to receive a **registration invitation** and be approved by an admin.
+On the other hand we use a good, old [forum](https://contactcurriculum.freeforums.net) to keep in touch with each other, discuss topics, and having it persisted for the future. 
 
 Via this GitHub repository, you can (more or less) easily contribute content (add/edit/delete) by creating a so-called [pull request](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/).
 
